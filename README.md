@@ -2,13 +2,11 @@
 # 👋 Hey!
 I'm a software/app/web designer & developer.  
 I code JS, TS, Rust, plus I can learn pretty much anything.  
-👀 I’m interested anything you'd like to chat about or offer.  
 💞️ Wanna collaborate? Contact me below.  
 
 # 📫 Contact:
 via email: [hmallen.cb@gmail.com](mailto:hmallen.cb@gmail.com)  
 view portfolio: [hallen.uk](https://hallen.uk)
-<br><img src="https://discord.c99.nl/widget/theme-3/400680342136291329.png">
 
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=haroldallen&count_private=true&show_icons=true&theme=light)  
